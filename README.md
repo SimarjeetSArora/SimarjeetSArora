@@ -28,7 +28,7 @@
       <h3>Giftible.in</h3>
       <p>An eCommerce platform connecting NGOs with buyers to sell charity-based products.</p>
       <sub><strong>Stack:</strong> FastAPI, React, MySQL, Razorpay, Twilio</sub><br/>
-      <a href="https://github.com/SimarjeetSArora/Giftible">
+      <a href="https://github.com/SimarjeetSArora/Giftible.in">
         <img src="logos/github.png" width="30" height="30" style="padding:5px" alt="GitHub Link"/>
       </a>
     </td>
